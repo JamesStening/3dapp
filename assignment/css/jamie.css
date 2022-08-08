@@ -1,0 +1,41 @@
+form {
+		background-color: transparent;
+		background-clip: ;
+	}
+	
+#main_3d_image {
+	min-width: 400px;
+	min-height: 200px;
+	
+}
+
+#models {
+	
+}
+	
+.dropdown-menu {
+	right: 0;
+	left: auto;
+	float: right;
+}
+
+.nav-link {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.btn {
+	border: 1px solid black;
+}
+
+.lightButtOn {
+	background-color: FloralWhite;
+}
+
+.lightButtOff {
+	background-color: LightGrey
+}
+
+.navbar-brand {
+	padding-left: 1rem;
+}
